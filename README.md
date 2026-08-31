@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/Ubuntu%20on%20Android-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu on Android"/>
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white" alt="Termux"/>
   <img src="https://img.shields.io/badge/Rootless-00C853?style=for-the-badge&logo=shield&logoColor=white" alt="Rootless"/>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffocusedpakistani%2FUbuntu"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffocusedpakistani%2FUbuntu&countColor=%232ccce4&style=flat&labelStyle=upper" /></a>
 </p>
 
 <h1 align="center">🐧 UBUNTU on Android</h1>
